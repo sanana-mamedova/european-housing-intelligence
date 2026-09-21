@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+
+# Power BI temporary files
+*.pbit.tmp
+~$*.pbix
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
